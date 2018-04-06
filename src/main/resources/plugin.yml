@@ -1,0 +1,3 @@
+name: MyfirstPlugin
+main: io.github.yinquan.testplugin.MytestPlugin
+version: 1.0
